@@ -1,0 +1,17 @@
+aiogram>=3.0.0
+requests
+telethon
+maigret
+shodan
+holehe
+phonenumbers
+beautifulsoup4
+python-whois
+pillow
+pytesseract
+opencv-python-headless
+dnspython
+playwright
+user-agents
+transliterate
+googlesearch-python
